@@ -1,6 +1,6 @@
 ### 🙋 Hi there! 
 
- ✌️ My name's Alexander, I'm a beginner software developer in Python with knowledge of the web. I'm open to proposals for work in the technologies I use.
+ ✌️ My name's Alexander, I'm a beginner software developer in Python with knowledge of the web technologies. I'm looking for new interesting projects or job opportunities.
 
 
 ### 🎹 Languages and Tools:
