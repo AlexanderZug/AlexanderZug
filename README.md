@@ -3,7 +3,7 @@
  ✌️ My name's Alexander, I'm a beginner software developer in Python with knowledge of frontend. I'm looking for new interesting projects or job opportunities.
 
 
-### 🎹 Languages and Tools:
+### 🎹 Languages and Tools
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
