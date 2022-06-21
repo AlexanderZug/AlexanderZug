@@ -26,4 +26,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexanderZug&theme=solarized_dark)
 
-
+[![codewars](https://www.codewars.com/users/AlexanderZug/badges/micro)](https://www.codewars.com/users/AlexanderZug) 
