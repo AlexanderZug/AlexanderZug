@@ -28,6 +28,6 @@
 
 [![codewars](https://www.codewars.com/users/AlexanderZug/badges/micro)](https://www.codewars.com/users/AlexanderZug) 
 
-### Videos
+### 🎓 Videos
 Analysis of the chapter 7 of Mark Lutz's book "Learning Python"
 <a href='https://www.youtube.com/watch?v=vvp-AJW9wmM&t=3s'>(link to YouTube channel)</a>
