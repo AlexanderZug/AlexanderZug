@@ -26,7 +26,7 @@ My name's Alexander, I'm a beginner software developer in Python with knowledge 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexanderZug&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/AlexanderZug/badges/large)](https://www.codewars.com/users/AlexanderZug) 
+[![codewars](https://www.codewars.com/users/AlexanderZug/badges/micro)](https://www.codewars.com/users/AlexanderZug) 
 
 ### 🎓 Videos
 Analysis of the chapter 7 of Mark Lutz's book "Learning Python"
