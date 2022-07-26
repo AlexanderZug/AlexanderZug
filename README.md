@@ -2,7 +2,6 @@
 
 My name's Alexander, I'm a beginner software developer in Python with knowledge of frontend. I'm looking for new interesting projects or job opportunities. I also currently study on the Yandex course (Python Developer). Here you can find my projects completed both independently and during training on the course.
 
-
 ### 🎹 Languages and Tools
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -27,6 +26,7 @@ My name's Alexander, I'm a beginner software developer in Python with knowledge 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexanderZug&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/AlexanderZug/badges/micro)](https://www.codewars.com/users/AlexanderZug) 
+![](https://komarev.com/ghpvc/?username=AlexanderZug&color=dc143c)
 
 ### 🎓 Videos
 Analysis of the chapter 7 of Mark Lutz's book "Learning Python"
