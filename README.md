@@ -24,8 +24,8 @@ My name's Alexander, I'm a software developer in Python with knowledge of fronte
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AlexanderZug&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://github-profile-trophy.vercel.app/?username=AlexanderZug&theme=onedark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexanderZug&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/AlexanderZug/badges/micro)](https://www.codewars.com/users/AlexanderZug) 
 ![](https://komarev.com/ghpvc/?username=AlexanderZug&color=dc143c)
