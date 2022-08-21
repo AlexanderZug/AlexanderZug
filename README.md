@@ -26,7 +26,6 @@ My name's Alexander, I'm a software developer in Python with knowledge of fronte
 
 ![](https://github-profile-trophy.vercel.app/?username=AlexanderZug&theme=onedark)
 
-
 [![codewars](https://www.codewars.com/users/AlexanderZug/badges/micro)](https://www.codewars.com/users/AlexanderZug) 
 ![](https://komarev.com/ghpvc/?username=AlexanderZug&color=dc143c)
 
