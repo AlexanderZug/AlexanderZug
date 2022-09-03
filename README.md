@@ -1,6 +1,6 @@
 ### 😁 Hi there! 
 
-My name's Alexander, I'm a software developer in Python with knowledge of frontend. I'm looking for new interesting projects or job opportunities. I also currently study on the Yandex course (Python Developer). Here you can find my projects completed both independently and during training on the course.
+My name's Alexander, I'm a software developer in Python with knowledge of frontend. Here you can find some of my projects.
 
 ### 🎹 Languages and Tools
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
