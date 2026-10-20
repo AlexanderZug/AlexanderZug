@@ -1,7 +1,3 @@
-### 😁 Hi there! 
-
-My name's Alexander, I'm a backend developer having knowledge of frontend technologies. Here you can find some of my projects.
-
 ### 🎹 Languages and Tools
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
